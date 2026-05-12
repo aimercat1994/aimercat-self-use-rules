@@ -1,8 +1,0 @@
-payload:
-  # DOMAIN-SUFFIX 直连域名
-  - DOMAIN-SUFFIX,zzyy.cyou,DIRECT
-  - DOMAIN-SUFFIX,douyin.com,DIRECT
-  - DOMAIN-SUFFIX,71dj.com,DIRECT
-  - DOMAIN-SUFFIX,cphone.vip,DIRECT
-  # DOMAIN-KEYWORD 关键词匹配
-  - DOMAIN-KEYWORD,banzhu,DIRECT
