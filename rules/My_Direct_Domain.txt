@@ -1,0 +1,6 @@
+# 我的直连域名规则集
+# 每行一个域名，+. 表示匹配该域名及所有子域名
++zzyy.cyou
++douyin.com
++71dj.com
++cphone.vip

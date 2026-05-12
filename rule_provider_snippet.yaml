@@ -1,0 +1,5 @@
+# 在 rule-providers 区域添加：
+  my_direct: { <<: *Anchor_DN, behavior: domain, format: text, url: "https://raw.githubusercontent.com/aimercat1994/aimercat-self-use-rules/main/rules/My_Direct_Domain.txt"}
+
+# 在 rules 区域的 MATCH 前添加：
+  - RULE-SET,my_direct,DIRECT    # 我的直连域名
