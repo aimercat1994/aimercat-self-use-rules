@@ -1,6 +1,8 @@
-# 我的直连域名规则集
-# 每行一个域名，+. 表示匹配该域名及所有子域名
-+zzyy.cyou
-+douyin.com
-+71dj.com
-+cphone.vip
+payload:
+  # DOMAIN-SUFFIX 直连域名
+  - DOMAIN-SUFFIX,zzyy.cyou,DIRECT
+  - DOMAIN-SUFFIX,douyin.com,DIRECT
+  - DOMAIN-SUFFIX,71dj.com,DIRECT
+  - DOMAIN-SUFFIX,cphone.vip,DIRECT
+  # DOMAIN-KEYWORD 关键词匹配
+  - DOMAIN-KEYWORD,banzhu,DIRECT
