@@ -1,0 +1,10 @@
+- type: DOMAIN-SUFFIX
+  payload:
+    - "+zzyy.cyou"
+    - "+douyin.com"
+    - "+71dj.com"
+    - "+cphone.vip"
+
+- type: DOMAIN-KEYWORD
+  payload:
+    - "banzhu"
