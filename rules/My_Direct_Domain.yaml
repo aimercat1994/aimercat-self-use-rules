@@ -1,10 +1,8 @@
-- type: DOMAIN-SUFFIX
-  payload:
-    - "+.zzyy.cyou"
-    - "+.douyin.com"
-    - "+.71dj.com"
-    - "+.cphone.vip"
-
-- type: DOMAIN-KEYWORD
-  payload:
-    - "banzhu"
+# 我的直连域名规则集
+# classical 格式，适用于 Mihomo RULE-SET
+payload:
+  - DOMAIN-SUFFIX,zzyy.cyou
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,71dj.com
+  - DOMAIN-SUFFIX,cphone.vip
+  - DOMAIN-KEYWORD,banzhu
