@@ -1,9 +1,66 @@
 # 我的直连域名规则集
-# classical 格式，适用于 Mihomo RULE-SET
+# classical 格式，适用于 Mihomo RULE-SET（rule-provider: behavior=classical）
+# 上半部分为手工维护，下半部分由 RouteCheck（192.168.1.10:8787）已批准域名自动生成
+# 生成时间: 2026-11-11 18:05 CST / RouteCheck V2026.9.16 / 已批准 60 条 → 去重后 53 条
 payload:
+  # --- 手工维护 ---
   - DOMAIN-SUFFIX,zzyy.cloud
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,71dj.com
   - DOMAIN-SUFFIX,cphone.vip
   - DOMAIN-KEYWORD,banzhu
-  - DOMAIN-SUFFIX,zzyy.cloud,DIRECT
+
+  # --- RouteCheck 已批准（自动生成）---
+  - DOMAIN,adblockplus.telemetry.eyeo.com
+  - DOMAIN,adv.bandi.so
+  - DOMAIN,api.anysearch.com
+  - DOMAIN,api.exa.ai
+  - DOMAIN,api.openlux.ai
+  - DOMAIN,api.xilianai.com
+  - DOMAIN,api.xmancdn.net
+  - DOMAIN,app.jbysoft.com
+  - DOMAIN,cdn.akaere.online
+  - DOMAIN,cf.trackerslist.com
+  - DOMAIN,client.crisp.chat
+  - DOMAIN,client.relay.crisp.chat
+  - DOMAIN,config.vclaw.online
+  - DOMAIN,dl.cloudsmith.io
+  - DOMAIN,easy-vdl.921217.xyz
+  - DOMAIN,fndepot.imcq.top
+  - DOMAIN,geocoding-api.open-meteo.com
+  - DOMAIN,gh.beimengvv.xyz
+  - DOMAIN,gh.dpik.top
+  - DOMAIN,gh.monlor.com
+  - DOMAIN,gh.noki.icu
+  - DOMAIN,ghf.xn--eqrr82bzpe.top
+  - DOMAIN,ghfile.geekertao.top
+  - DOMAIN,ghm.078465.xyz
+  - DOMAIN,ghp.keleyaa.com
+  - DOMAIN,ghproxy.imciel.com
+  - DOMAIN,github.chenc.dev
+  - DOMAIN,github.dpik.top
+  - DOMAIN,hermes-agent.nousresearch.com
+  - DOMAIN,images.weserv.nl
+  - DOMAIN,portal.nousresearch.com
+  - DOMAIN,pve.proxmox.com
+  - DOMAIN,qt.conntest.moonlight-stream.org
+  - DOMAIN,raw.githubusercontent.com
+  - DOMAIN,releases.obsidian.md
+  - DOMAIN,stun.moonlight-stream.org
+  - DOMAIN,support.921217.xyz
+  - DOMAIN,www.allenxiang.com
+  - DOMAIN,www.dsh.so
+  - DOMAIN,www.favicon.vip
+  - DOMAIN,www.mb3admin.com
+  - DOMAIN-SUFFIX,dsh-market.com
+  - DOMAIN-SUFFIX,dsh.works
+  - DOMAIN-SUFFIX,dshfind.com
+  - DOMAIN-SUFFIX,fastgit.cc
+  - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,gh-proxy.org
+  - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-SUFFIX,models.dev
+  - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN-SUFFIX,tvv.tw
+  - DOMAIN-SUFFIX,uuyc163.com
