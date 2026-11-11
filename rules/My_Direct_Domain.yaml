@@ -5,10 +5,16 @@ payload:
   - DOMAIN,ai.xilian.wiki
   - DOMAIN,api.anysearch.com
   - DOMAIN,api.exa.ai
+  - DOMAIN,api.frankfurter.dev
+  - DOMAIN,api.hindsight.vectorize.io
   - DOMAIN,api.jmlldsc.com
+  - DOMAIN,api.keenable.ai
+  - DOMAIN,api.mwmbl.org
   - DOMAIN,api.openlux.ai
+  - DOMAIN,api.soulter.top
   - DOMAIN,api.xilianai.com
   - DOMAIN,api.xmancdn.net
+  - DOMAIN,apiv2-liveupdate.fygonas.com
   - DOMAIN,app.jbysoft.com
   - DOMAIN,cdn.akaere.online
   - DOMAIN,cdn.crashmc.com
@@ -18,6 +24,7 @@ payload:
   - DOMAIN,client.relay.crisp.chat
   - DOMAIN,config.vclaw.online
   - DOMAIN,cors.isteed.cc
+  - DOMAIN,debian.map.fastlydns.net
   - DOMAIN,dl.cloudsmith.io
   - DOMAIN,easy-vdl.921217.xyz
   - DOMAIN,fndepot.imcq.top
@@ -36,23 +43,34 @@ payload:
   - DOMAIN,github.chenc.dev
   - DOMAIN,github.dpik.top
   - DOMAIN,github.tbap.top
+  - DOMAIN,gitproxy.127731.xyz
   - DOMAIN,hajimi.165201.xyz
   - DOMAIN,hermes-agent.nousresearch.com
+  - DOMAIN,hy.xilianai.com
   - DOMAIN,images.weserv.nl
   - DOMAIN,img.9txs.org
+  - DOMAIN,m.xshbook.com
   - DOMAIN,m.xvipxs.net
+  - DOMAIN,msg-ws.salesmartly.com
   - DOMAIN,msg.salesmartly.com
+  - DOMAIN,plugin-code.salesmartly.com
   - DOMAIN,portal.nousresearch.com
   - DOMAIN,pve.proxmox.com
   - DOMAIN,qt.conntest.moonlight-stream.org
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,releases.obsidian.md
+  - DOMAIN,s.damaoli.com
   - DOMAIN,srz.salesmartly.com
+  - DOMAIN,static.keepshu.com
   - DOMAIN,stun.moonlight-stream.org
   - DOMAIN,support.921217.xyz
+  - DOMAIN,udc.neo4j.com
   - DOMAIN,www.23uswx.la
+  - DOMAIN,www.23uswx.org
+  - DOMAIN,www.35ge.info
   - DOMAIN,www.77shuku.info
   - DOMAIN,www.allenxiang.com
+  - DOMAIN,www.biquge.so
   - DOMAIN,www.biquge345.com
   - DOMAIN,www.dsh.so
   - DOMAIN,www.favicon.vip
@@ -62,6 +80,8 @@ payload:
   - DOMAIN,www.xbotaodz.com
   - DOMAIN,www.xbotaodz.info
   - DOMAIN,www.xuanyge.org
+  - DOMAIN,www.yunxuange.cc
+  - DOMAIN,www.zhaishuyuan.org
   - DOMAIN-SUFFIX,71dj.com
   - DOMAIN-SUFFIX,cphone.vip
   - DOMAIN-SUFFIX,douyin.com
@@ -70,9 +90,12 @@ payload:
   - DOMAIN-SUFFIX,dshfind.com
   - DOMAIN-SUFFIX,fastgit.cc
   - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,freeipapi.com
+  - DOMAIN-SUFFIX,fynd.bot
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh-proxy.org
   - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipwho.is
   - DOMAIN-SUFFIX,models.dev
   - DOMAIN-SUFFIX,movie-pilot.org
