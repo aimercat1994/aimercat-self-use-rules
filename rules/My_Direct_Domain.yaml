@@ -6,27 +6,41 @@ payload:
   - DOMAIN,api.anysearch.com
   - DOMAIN,api.exa.ai
   - DOMAIN,api.frankfurter.dev
+  - DOMAIN,api.gradio.app
   - DOMAIN,api.hindsight.vectorize.io
   - DOMAIN,api.jmlldsc.com
   - DOMAIN,api.keenable.ai
   - DOMAIN,api.mwmbl.org
   - DOMAIN,api.openlux.ai
+  - DOMAIN,api.salesmartly.com
   - DOMAIN,api.soulter.top
   - DOMAIN,api.xilianai.com
   - DOMAIN,api.xmancdn.net
   - DOMAIN,apiv2-liveupdate.fygonas.com
   - DOMAIN,app.jbysoft.com
+  - DOMAIN,app.tangoapp.dev
+  - DOMAIN,astrbot-cloud-test-s3.astrbot.app
   - DOMAIN,cdn.akaere.online
   - DOMAIN,cdn.crashmc.com
   - DOMAIN,cdn.dsh.so
   - DOMAIN,cf.trackerslist.com
   - DOMAIN,client.crisp.chat
   - DOMAIN,client.relay.crisp.chat
+  - DOMAIN,client.salesmartly.com
+  - DOMAIN,cloud.astrbot.app
+  - DOMAIN,cloud.hirige-tech.com
   - DOMAIN,config.vclaw.online
   - DOMAIN,cors.isteed.cc
+  - DOMAIN,customers.jam-software.de
   - DOMAIN,debian.map.fastlydns.net
+  - DOMAIN,demo.edgeever.org
   - DOMAIN,dl.cloudsmith.io
+  - DOMAIN,doc.openlux.ai
+  - DOMAIN,download.pixpinapp.com
+  - DOMAIN,download.proxmox.com
   - DOMAIN,easy-vdl.921217.xyz
+  - DOMAIN,eb.grsaiapi.com
+  - DOMAIN,fnapp.floatingice.win
   - DOMAIN,fndepot.imcq.top
   - DOMAIN,fndepot1.36337681.xyz
   - DOMAIN,geocoding-api.open-meteo.com
@@ -46,9 +60,12 @@ payload:
   - DOMAIN,gitproxy.127731.xyz
   - DOMAIN,hajimi.165201.xyz
   - DOMAIN,hermes-agent.nousresearch.com
+  - DOMAIN,hkg-counter.everonet.com
   - DOMAIN,hy.xilianai.com
+  - DOMAIN,ignis.thiefling.com
   - DOMAIN,images.weserv.nl
   - DOMAIN,img.9txs.org
+  - DOMAIN,legado.aoaostar.com
   - DOMAIN,m.xshbook.com
   - DOMAIN,m.xvipxs.net
   - DOMAIN,msg-ws.salesmartly.com
@@ -59,44 +76,65 @@ payload:
   - DOMAIN,qt.conntest.moonlight-stream.org
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,releases.obsidian.md
+  - DOMAIN,releases.turnkeylinux.org
   - DOMAIN,s.damaoli.com
   - DOMAIN,srz.salesmartly.com
   - DOMAIN,static.keepshu.com
   - DOMAIN,stun.moonlight-stream.org
   - DOMAIN,support.921217.xyz
+  - DOMAIN,telemetry.emqx.io
+  - DOMAIN,tickstats.soulter.top
   - DOMAIN,udc.neo4j.com
+  - DOMAIN,ufitools.ikuns.top
+  - DOMAIN,wap.80ge.info
+  - DOMAIN,widget.salesmartly.com
   - DOMAIN,www.23uswx.la
   - DOMAIN,www.23uswx.org
   - DOMAIN,www.35ge.info
+  - DOMAIN,www.56yz.com
   - DOMAIN,www.77shuku.info
   - DOMAIN,www.allenxiang.com
   - DOMAIN,www.biquge.so
   - DOMAIN,www.biquge345.com
   - DOMAIN,www.dsh.so
   - DOMAIN,www.favicon.vip
+  - DOMAIN,www.kk169.net
   - DOMAIN,www.mb3admin.com
+  - DOMAIN,www.mojeek.com
   - DOMAIN,www.openlux.ai
+  - DOMAIN,www.qb5.io
+  - DOMAIN,www.quanben5.com
+  - DOMAIN,www.qudushu.org
+  - DOMAIN,www.quduwx.net
+  - DOMAIN,www.shubang.net
   - DOMAIN,www.swsk.org
+  - DOMAIN,www.swskw.com
   - DOMAIN,www.xbotaodz.com
   - DOMAIN,www.xbotaodz.info
   - DOMAIN,www.xuanyge.org
+  - DOMAIN,www.xyetianlian.com
+  - DOMAIN,www.ybsws.com
   - DOMAIN,www.yunxuange.cc
   - DOMAIN,www.zhaishuyuan.org
   - DOMAIN-SUFFIX,71dj.com
+  - DOMAIN-SUFFIX,ccswitch.io
   - DOMAIN-SUFFIX,cphone.vip
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,dsh-market.com
   - DOMAIN-SUFFIX,dsh.works
   - DOMAIN-SUFFIX,dshfind.com
+  - DOMAIN-SUFFIX,embydata.com
   - DOMAIN-SUFFIX,fastgit.cc
   - DOMAIN-SUFFIX,fc2.com
   - DOMAIN-SUFFIX,freeipapi.com
   - DOMAIN-SUFFIX,fynd.bot
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh-proxy.org
+  - DOMAIN-SUFFIX,grsai.ai
   - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,meinianda.top
   - DOMAIN-SUFFIX,models.dev
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,tvv.tw
