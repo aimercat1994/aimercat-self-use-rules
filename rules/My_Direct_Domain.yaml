@@ -1,49 +1,92 @@
 payload:
   - DOMAIN-KEYWORD,banzhu
+  - DOMAIN,2x.aopnixmpdsitoufvzdvdanqvgm.com
+  - DOMAIN,790-ssb-375.mktoresp.com
+  - DOMAIN,a.asmregg.top
+  - DOMAIN,account.foxit.com
   - DOMAIN,adblockplus.telemetry.eyeo.com
   - DOMAIN,adv.bandi.so
   - DOMAIN,ai.xilian.wiki
+  - DOMAIN,api.allorigins.win
   - DOMAIN,api.anysearch.com
+  - DOMAIN,api.artic.edu
   - DOMAIN,api.exa.ai
+  - DOMAIN,api.firecrawl.dev
   - DOMAIN,api.frankfurter.dev
   - DOMAIN,api.gradio.app
   - DOMAIN,api.hindsight.vectorize.io
+  - DOMAIN,api.iconify.design
   - DOMAIN,api.jmlldsc.com
   - DOMAIN,api.keenable.ai
   - DOMAIN,api.mwmbl.org
+  - DOMAIN,api.open-meteo.com
   - DOMAIN,api.openlux.ai
   - DOMAIN,api.salesmartly.com
+  - DOMAIN,api.segment.io
   - DOMAIN,api.soulter.top
+  - DOMAIN,api.swisscows.com
+  - DOMAIN,api.tusksearch.com
   - DOMAIN,api.xilianai.com
   - DOMAIN,api.xmancdn.net
+  - DOMAIN,api.yep.com
   - DOMAIN,apiv2-liveupdate.fygonas.com
   - DOMAIN,app.jbysoft.com
   - DOMAIN,app.tangoapp.dev
-  - DOMAIN,astrbot-cloud-test-s3.astrbot.app
+  - DOMAIN,appdata.jam-software.de
+  - DOMAIN,assets.apollo.io
+  - DOMAIN,b.6sc.co
+  - DOMAIN,cap.fn0721.top
+  - DOMAIN,catiecli.sukaka.top
   - DOMAIN,cdn.akaere.online
+  - DOMAIN,cdn.chatway.app
   - DOMAIN,cdn.crashmc.com
   - DOMAIN,cdn.dsh.so
+  - DOMAIN,cdn.jxdata.com
+  - DOMAIN,cdn.paddle.com
+  - DOMAIN,cdn.segment.com
+  - DOMAIN,cdn.simpleicons.org
+  - DOMAIN,cdn.wootric.com
   - DOMAIN,cf.trackerslist.com
+  - DOMAIN,charon.protect.clerk.com
+  - DOMAIN,chat.chatway.app
+  - DOMAIN,checkout.doit-payment.com
   - DOMAIN,client.crisp.chat
+  - DOMAIN,client.px-cloud.net
   - DOMAIN,client.relay.crisp.chat
   - DOMAIN,client.salesmartly.com
-  - DOMAIN,cloud.astrbot.app
   - DOMAIN,cloud.hirige-tech.com
+  - DOMAIN,collector-pxvl48pwoc.px-cloud.net
   - DOMAIN,config.vclaw.online
+  - DOMAIN,cookies-data.onetrust.io
   - DOMAIN,cors.isteed.cc
+  - DOMAIN,crowdview-next-js.onrender.com
   - DOMAIN,customers.jam-software.de
+  - DOMAIN,cws.connectedpdf.com
   - DOMAIN,debian.map.fastlydns.net
-  - DOMAIN,demo.edgeever.org
+  - DOMAIN,discuss.linuxcontainers.org
   - DOMAIN,dl.cloudsmith.io
   - DOMAIN,doc.openlux.ai
+  - DOMAIN,docs.newapi.pro
+  - DOMAIN,docs.searxng.org
+  - DOMAIN,download.db-ip.com
   - DOMAIN,download.pixpinapp.com
   - DOMAIN,download.proxmox.com
+  - DOMAIN,downloads.jam-software.de
   - DOMAIN,easy-vdl.921217.xyz
+  - DOMAIN,easy.921217.xyz
   - DOMAIN,eb.grsaiapi.com
+  - DOMAIN,epsilon.6sense.com
+  - DOMAIN,extensions.duckdb.org
+  - DOMAIN,f-cn-static.arkgames.com
+  - DOMAIN,fenxiang.yesongyun.com
+  - DOMAIN,files-cdn.chatway.app
   - DOMAIN,fnapp.floatingice.win
+  - DOMAIN,fnbench.1133891.xyz
   - DOMAIN,fndepot.imcq.top
   - DOMAIN,fndepot1.36337681.xyz
+  - DOMAIN,fndesk.imcq.top
   - DOMAIN,geocoding-api.open-meteo.com
+  - DOMAIN,gg.zzxsa.com
   - DOMAIN,gh.beimengvv.xyz
   - DOMAIN,gh.dpik.top
   - DOMAIN,gh.monlor.com
@@ -56,88 +99,316 @@ payload:
   - DOMAIN,git.yylx.win
   - DOMAIN,github.chenc.dev
   - DOMAIN,github.dpik.top
+  - DOMAIN,github.gohj99.site
   - DOMAIN,github.tbap.top
+  - DOMAIN,githubproxy.gohj99.site
   - DOMAIN,gitproxy.127731.xyz
   - DOMAIN,hajimi.165201.xyz
   - DOMAIN,hermes-agent.nousresearch.com
   - DOMAIN,hkg-counter.everonet.com
+  - DOMAIN,hn.algolia.com
   - DOMAIN,hy.xilianai.com
+  - DOMAIN,i.12bz.net
+  - DOMAIN,ift.px-cloud.net
   - DOMAIN,ignis.thiefling.com
   - DOMAIN,images.weserv.nl
+  - DOMAIN,img.80ge.info
+  - DOMAIN,img.80wx.org
+  - DOMAIN,img.88xiaoshuo.net
   - DOMAIN,img.9txs.org
+  - DOMAIN,img.clerk.com
+  - DOMAIN,img22.aixdzs.com
+  - DOMAIN,ipv6.6sc.co
+  - DOMAIN,j.6sc.co
+  - DOMAIN,js.zi-scripts.com
   - DOMAIN,legado.aoaostar.com
+  - DOMAIN,login.foxitesign.foxit.com
+  - DOMAIN,login.seznam.cz
+  - DOMAIN,m.9qishu.com
+  - DOMAIN,m.bikuxs.com
+  - DOMAIN,m.dybz123.com
+  - DOMAIN,m.elkoparts.com
+  - DOMAIN,m.elkoparts.info
+  - DOMAIN,m.elkoparts.net
+  - DOMAIN,m.hbpas.org
+  - DOMAIN,m.ibbxs.com
+  - DOMAIN,m.jhssd.com
+  - DOMAIN,m.jhsssd.com
+  - DOMAIN,m.kk169.net
+  - DOMAIN,m.longtengxiaoshuo.org
+  - DOMAIN,m.lulushuwu.com
+  - DOMAIN,m.qingrenyouxi.com
+  - DOMAIN,m.qishu99.cc
+  - DOMAIN,m.quduwx.net
+  - DOMAIN,m.rouwenwu14.com
+  - DOMAIN,m.shfljx.com
+  - DOMAIN,m.ttshu12.com
+  - DOMAIN,m.txt80.cc
   - DOMAIN,m.xshbook.com
   - DOMAIN,m.xvipxs.net
+  - DOMAIN,m.yuwangshe.net
+  - DOMAIN,m.yuwangshe.one
+  - DOMAIN,m.yuzhai.life
+  - DOMAIN,m.yuzhaiwen.com
+  - DOMAIN,m.zhanvxs.cc
+  - DOMAIN,m.zhonghuashici.com
+  - DOMAIN,m.zym888.com
+  - DOMAIN,magazine.joovy.com
+  - DOMAIN,matomo.jam-software.com
+  - DOMAIN,matomo.jam-software.de
+  - DOMAIN,mm.xyuzhaiwu.xyz
+  - DOMAIN,mobile.zongcai666.com
   - DOMAIN,msg-ws.salesmartly.com
   - DOMAIN,msg.salesmartly.com
+  - DOMAIN,na1.foxitesign.foxit.com
+  - DOMAIN,pay3.apiplus.org
+  - DOMAIN,pheeplatform.foxit.com
   - DOMAIN,plugin-code.salesmartly.com
   - DOMAIN,portal.nousresearch.com
+  - DOMAIN,prod-api.chatway.app
   - DOMAIN,pve.proxmox.com
   - DOMAIN,qt.conntest.moonlight-stream.org
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,releases.obsidian.md
   - DOMAIN,releases.turnkeylinux.org
   - DOMAIN,s.damaoli.com
+  - DOMAIN,search.parallel.ai
+  - DOMAIN,search.seznam.cz
+  - DOMAIN,siteintercept.qualtrics.com
   - DOMAIN,srz.salesmartly.com
+  - DOMAIN,startpage.foxitsoftware.com
+  - DOMAIN,startsiden.abcnyheter.no
   - DOMAIN,static.keepshu.com
   - DOMAIN,stun.moonlight-stream.org
+  - DOMAIN,stun.nextcloud.com
   - DOMAIN,support.921217.xyz
   - DOMAIN,telemetry.emqx.io
+  - DOMAIN,tiantangxiangzuoshenzhenwangyou.qwyd.net
   - DOMAIN,tickstats.soulter.top
   - DOMAIN,udc.neo4j.com
   - DOMAIN,ufitools.ikuns.top
+  - DOMAIN,v1.qingtian618.com
   - DOMAIN,wap.80ge.info
+  - DOMAIN,wap.80zw.la
+  - DOMAIN,wap.jhssd.com
+  - DOMAIN,wap.qiqixs.info
+  - DOMAIN,wap.qiqixs.la
+  - DOMAIN,wap.sou78.com
+  - DOMAIN,wap.wangshuge.la
+  - DOMAIN,wap.wangshugu.info
+  - DOMAIN,wap2.xinbiquge.org
+  - DOMAIN,widget.chatway.app
   - DOMAIN,widget.salesmartly.com
+  - DOMAIN,widgetcdn.chatway.app
+  - DOMAIN,www.123yqaa.com
+  - DOMAIN,www.123yqw.com
+  - DOMAIN,www.23hh.la
+  - DOMAIN,www.23us.tw
   - DOMAIN,www.23uswx.la
   - DOMAIN,www.23uswx.org
+  - DOMAIN,www.30dushu.com
   - DOMAIN,www.35ge.info
+  - DOMAIN,www.38wx.net
+  - DOMAIN,www.3yt.info
+  - DOMAIN,www.52dzxy.com
+  - DOMAIN,www.52shuku.net
   - DOMAIN,www.56yz.com
+  - DOMAIN,www.56zw.com
+  - DOMAIN,www.7-zip.org
   - DOMAIN,www.77shuku.info
+  - DOMAIN,www.7kbook.com
+  - DOMAIN,www.7shuwu.org
+  - DOMAIN,www.80ge.info
+  - DOMAIN,www.80zw.la
+  - DOMAIN,www.81txt.net
+  - DOMAIN,www.83xs.com
+  - DOMAIN,www.8xiaoshuo.net
+  - DOMAIN,www.95dushu.info
+  - DOMAIN,www.9qishu.com
+  - DOMAIN,www.aakkrr.com
   - DOMAIN,www.allenxiang.com
+  - DOMAIN,www.aqxsw123.com
+  - DOMAIN,www.aqxsw555.com
+  - DOMAIN,www.biqu5200.com
   - DOMAIN,www.biquge.so
   - DOMAIN,www.biquge345.com
+  - DOMAIN,www.bixiange.top
+  - DOMAIN,www.blshuge.com
+  - DOMAIN,www.blxsw.cc
+  - DOMAIN,www.cherubicsoft.com
+  - DOMAIN,www.dbxsd.com
+  - DOMAIN,www.dcrbk.com
+  - DOMAIN,www.deqixs.co
+  - DOMAIN,www.deqixss.com
   - DOMAIN,www.dsh.so
+  - DOMAIN,www.fanqianxs.com
   - DOMAIN,www.favicon.vip
+  - DOMAIN,www.fushubook.com
+  - DOMAIN,www.fuxiaoshu.com
+  - DOMAIN,www.fuxsb.cc
+  - DOMAIN,www.fxshu.top
+  - DOMAIN,www.gashuw.net
+  - DOMAIN,www.guowx.com
+  - DOMAIN,www.haitangshuwu.info
+  - DOMAIN,www.hunhun.cc
+  - DOMAIN,www.hzxsw.com
+  - DOMAIN,www.iidcr.com
+  - DOMAIN,www.iobit.com
+  - DOMAIN,www.isiluke.la
+  - DOMAIN,www.jam-software.com
+  - DOMAIN,www.jhssd.com
+  - DOMAIN,www.jhsssd.com
+  - DOMAIN,www.kanshuw.com
   - DOMAIN,www.kk169.net
+  - DOMAIN,www.kushuge.com
+  - DOMAIN,www.kuuai.com
+  - DOMAIN,www.kxdu.net
+  - DOMAIN,www.kxwx.org
+  - DOMAIN,www.lwxs.net
+  - DOMAIN,www.mayitxt.info
+  - DOMAIN,www.mayiwsk.info
+  - DOMAIN,www.mayiwxw.com
   - DOMAIN,www.mb3admin.com
   - DOMAIN,www.mojeek.com
+  - DOMAIN,www.newapi.ai
+  - DOMAIN,www.newapi.pro
+  - DOMAIN,www.nidedizhi1.com
+  - DOMAIN,www.oneceng.com
   - DOMAIN,www.openlux.ai
+  - DOMAIN,www.po5.net
   - DOMAIN,www.qb5.io
+  - DOMAIN,www.qinkan.net
+  - DOMAIN,www.qishu99.cc
+  - DOMAIN,www.qixinge.net
+  - DOMAIN,www.quanben-xiaoshuo.net
   - DOMAIN,www.quanben5.com
+  - DOMAIN,www.qududu.com
   - DOMAIN,www.qudushu.org
   - DOMAIN,www.quduwx.net
+  - DOMAIN,www.qunxs.com
+  - DOMAIN,www.roushuwu.com
+  - DOMAIN,www.rouwennp.org
+  - DOMAIN,www.rulianshi.cc
+  - DOMAIN,www.rulianshi.org
+  - DOMAIN,www.seznam.cz
+  - DOMAIN,www.shengxuxu.info
   - DOMAIN,www.shubang.net
+  - DOMAIN,www.shuqi.cc
+  - DOMAIN,www.simplilearn.com
+  - DOMAIN,www.sjks88.com
+  - DOMAIN,www.soshu8.com
+  - DOMAIN,www.sudugu.cc
+  - DOMAIN,www.sudugu.co
+  - DOMAIN,www.sudugu.org
   - DOMAIN,www.swsk.org
   - DOMAIN,www.swskw.com
+  - DOMAIN,www.tatays.com
+  - DOMAIN,www.techpowerup.com
+  - DOMAIN,www.tshu8.com
+  - DOMAIN,www.wangshuwx.com
+  - DOMAIN,www.wanwx.com
+  - DOMAIN,www.wwxsc.com
+  - DOMAIN,www.wxsck.com
+  - DOMAIN,www.wxscs.com
+  - DOMAIN,www.x23us.us
+  - DOMAIN,www.xbiqukun.com
+  - DOMAIN,www.xbiquwk.com
   - DOMAIN,www.xbotaodz.com
   - DOMAIN,www.xbotaodz.info
+  - DOMAIN,www.xiangtxsw.com
+  - DOMAIN,www.xsabc.com
+  - DOMAIN,www.xshuquge.net
+  - DOMAIN,www.xuanhuange.info
   - DOMAIN,www.xuanyge.org
+  - DOMAIN,www.xvipxs.net
+  - DOMAIN,www.xyb3.info
+  - DOMAIN,www.xyb3.net
   - DOMAIN,www.xyetianlian.com
+  - DOMAIN,www.yanqinggang.com
+  - DOMAIN,www.ybswa.com
   - DOMAIN,www.ybsws.com
+  - DOMAIN,www.yetianlian.com
+  - DOMAIN,www.yetianlian.la
+  - DOMAIN,www.yetianlian.net
+  - DOMAIN,www.ygzww.com
+  - DOMAIN,www.yichya.dev
+  - DOMAIN,www.yuedupark.com
   - DOMAIN,www.yunxuange.cc
+  - DOMAIN,www.yybsw.com
+  - DOMAIN,www.yysk.net
+  - DOMAIN,www.zapmeta.com
   - DOMAIN,www.zhaishuyuan.org
+  - DOMAIN,www.zhizhuxs.com
+  - DOMAIN,www.zongcaixiaoshuow.com
+  - DOMAIN,www.zzdushu.com
+  - DOMAIN,www2.ati.com
+  - DOMAIN,zn2trismmfljkalnq-docker.siteintercept.qualtrics.com
+  - DOMAIN-SUFFIX,123xiaoqiang.me
   - DOMAIN-SUFFIX,71dj.com
+  - DOMAIN-SUFFIX,ahuamiao.com
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,amd-ba.com
+  - DOMAIN-SUFFIX,amd-cs.com
+  - DOMAIN-SUFFIX,andisearch.com
+  - DOMAIN-SUFFIX,aplo-evnt.com
+  - DOMAIN-SUFFIX,astrbot.app
   - DOMAIN-SUFFIX,ccswitch.io
+  - DOMAIN-SUFFIX,check-host.net
+  - DOMAIN-SUFFIX,cloakbrowser.dev
+  - DOMAIN-SUFFIX,contrib.rocks
   - DOMAIN-SUFFIX,cphone.vip
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,dsh-market.com
   - DOMAIN-SUFFIX,dsh.works
   - DOMAIN-SUFFIX,dshfind.com
+  - DOMAIN-SUFFIX,edgeever.org
   - DOMAIN-SUFFIX,embydata.com
+  - DOMAIN-SUFFIX,encyclosearch.org
+  - DOMAIN-SUFFIX,example.com
+  - DOMAIN-SUFFIX,fastbot.de
   - DOMAIN-SUFFIX,fastgit.cc
   - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,feldspaten.org
   - DOMAIN-SUFFIX,freeipapi.com
   - DOMAIN-SUFFIX,fynd.bot
+  - DOMAIN-SUFFIX,geekuninstaller.com
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh-proxy.org
+  - DOMAIN-SUFFIX,ghbtns.com
+  - DOMAIN-SUFFIX,gkd.li
   - DOMAIN-SUFFIX,grsai.ai
+  - DOMAIN-SUFFIX,hugozhu.site
   - DOMAIN-SUFFIX,ifconfig.me
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,ixdzs.tw
+  - DOMAIN-SUFFIX,kakuyomu.jp
+  - DOMAIN-SUFFIX,kgbook.com
+  - DOMAIN-SUFFIX,lnovel.org
+  - DOMAIN-SUFFIX,lnovel.tw
+  - DOMAIN-SUFFIX,luxxle.com
+  - DOMAIN-SUFFIX,lwfls.com
+  - DOMAIN-SUFFIX,lwfls.vip
   - DOMAIN-SUFFIX,meinianda.top
   - DOMAIN-SUFFIX,models.dev
   - DOMAIN-SUFFIX,movie-pilot.org
+  - DOMAIN-SUFFIX,nasicon.top
+  - DOMAIN-SUFFIX,neosearch.org
+  - DOMAIN-SUFFIX,newapi.chat
+  - DOMAIN-SUFFIX,octop.cloud
+  - DOMAIN-SUFFIX,onehu.xyz
+  - DOMAIN-SUFFIX,qubook.org
+  - DOMAIN-SUFFIX,reloado.com
+  - DOMAIN-SUFFIX,repology.org
+  - DOMAIN-SUFFIX,rsms.me
+  - DOMAIN-SUFFIX,sci-draw.com
+  - DOMAIN-SUFFIX,searchmysite.net
+  - DOMAIN-SUFFIX,sepiasearch.org
+  - DOMAIN-SUFFIX,tapan.top
+  - DOMAIN-SUFFIX,trendshift.io
   - DOMAIN-SUFFIX,tvv.tw
   - DOMAIN-SUFFIX,uuyc163.com
   - DOMAIN-SUFFIX,wget.la
+  - DOMAIN-SUFFIX,windirstat.net
+  - DOMAIN-SUFFIX,zxcs.zip
   - DOMAIN-SUFFIX,zzyy.cloud
