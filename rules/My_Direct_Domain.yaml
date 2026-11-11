@@ -1,32 +1,27 @@
-# 我的直连域名规则集
-# classical 格式，适用于 Mihomo RULE-SET（rule-provider: behavior=classical）
-# 上半部分为手工维护，下半部分由 RouteCheck（192.168.1.10:8787）已批准域名自动生成
-# 生成时间: 2026-11-11 18:05 CST / RouteCheck V2026.9.16 / 已批准 60 条 → 去重后 53 条
 payload:
-  # --- 手工维护 ---
-  - DOMAIN-SUFFIX,zzyy.cloud
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,71dj.com
-  - DOMAIN-SUFFIX,cphone.vip
   - DOMAIN-KEYWORD,banzhu
-
-  # --- RouteCheck 已批准（自动生成）---
   - DOMAIN,adblockplus.telemetry.eyeo.com
   - DOMAIN,adv.bandi.so
+  - DOMAIN,ai.xilian.wiki
   - DOMAIN,api.anysearch.com
   - DOMAIN,api.exa.ai
+  - DOMAIN,api.jmlldsc.com
   - DOMAIN,api.openlux.ai
   - DOMAIN,api.xilianai.com
   - DOMAIN,api.xmancdn.net
   - DOMAIN,app.jbysoft.com
   - DOMAIN,cdn.akaere.online
+  - DOMAIN,cdn.crashmc.com
+  - DOMAIN,cdn.dsh.so
   - DOMAIN,cf.trackerslist.com
   - DOMAIN,client.crisp.chat
   - DOMAIN,client.relay.crisp.chat
   - DOMAIN,config.vclaw.online
+  - DOMAIN,cors.isteed.cc
   - DOMAIN,dl.cloudsmith.io
   - DOMAIN,easy-vdl.921217.xyz
   - DOMAIN,fndepot.imcq.top
+  - DOMAIN,fndepot1.36337681.xyz
   - DOMAIN,geocoding-api.open-meteo.com
   - DOMAIN,gh.beimengvv.xyz
   - DOMAIN,gh.dpik.top
@@ -37,21 +32,39 @@ payload:
   - DOMAIN,ghm.078465.xyz
   - DOMAIN,ghp.keleyaa.com
   - DOMAIN,ghproxy.imciel.com
+  - DOMAIN,git.yylx.win
   - DOMAIN,github.chenc.dev
   - DOMAIN,github.dpik.top
+  - DOMAIN,github.tbap.top
+  - DOMAIN,hajimi.165201.xyz
   - DOMAIN,hermes-agent.nousresearch.com
   - DOMAIN,images.weserv.nl
+  - DOMAIN,img.9txs.org
+  - DOMAIN,m.xvipxs.net
+  - DOMAIN,msg.salesmartly.com
   - DOMAIN,portal.nousresearch.com
   - DOMAIN,pve.proxmox.com
   - DOMAIN,qt.conntest.moonlight-stream.org
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,releases.obsidian.md
+  - DOMAIN,srz.salesmartly.com
   - DOMAIN,stun.moonlight-stream.org
   - DOMAIN,support.921217.xyz
+  - DOMAIN,www.23uswx.la
+  - DOMAIN,www.77shuku.info
   - DOMAIN,www.allenxiang.com
+  - DOMAIN,www.biquge345.com
   - DOMAIN,www.dsh.so
   - DOMAIN,www.favicon.vip
   - DOMAIN,www.mb3admin.com
+  - DOMAIN,www.openlux.ai
+  - DOMAIN,www.swsk.org
+  - DOMAIN,www.xbotaodz.com
+  - DOMAIN,www.xbotaodz.info
+  - DOMAIN,www.xuanyge.org
+  - DOMAIN-SUFFIX,71dj.com
+  - DOMAIN-SUFFIX,cphone.vip
+  - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,dsh-market.com
   - DOMAIN-SUFFIX,dsh.works
   - DOMAIN-SUFFIX,dshfind.com
@@ -60,7 +73,10 @@ payload:
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh-proxy.org
   - DOMAIN-SUFFIX,ifconfig.me
+  - DOMAIN-SUFFIX,ipwho.is
   - DOMAIN-SUFFIX,models.dev
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,tvv.tw
   - DOMAIN-SUFFIX,uuyc163.com
+  - DOMAIN-SUFFIX,wget.la
+  - DOMAIN-SUFFIX,zzyy.cloud
