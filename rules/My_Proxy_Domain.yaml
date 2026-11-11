@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,jina.ai,Proxy
-  - DOMAIN-SUFFIX,mypikpak.com,Proxy
-  - DOMAIN-SUFFIX,mypikpak.net,Proxy
+  - DOMAIN-SUFFIX,jina.ai
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,mypikpak.net
